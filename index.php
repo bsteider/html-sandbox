@@ -2,6 +2,9 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
+
+		<!-- load custom css here -->
+		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 		<title>HTML SANDBOX</title>
 	</head>
 	<body>
